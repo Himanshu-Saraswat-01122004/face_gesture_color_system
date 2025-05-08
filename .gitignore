@@ -1,0 +1,49 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+env/
+venv/
+ENV/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Project specific
+gesture_system.log
+remove_comments.py
+.DS_Store
+Thumbs.db
+
+# Keep user preferences out of version control by default
+# (to prevent accidental commits of personal data)
+user_preferences.json
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Local development settings
+.env
+.env.local
+
+# Videos and images that might be captured during testing
+*.mp4
+*.avi
+*.jpg
+*.png
+*.jpeg
