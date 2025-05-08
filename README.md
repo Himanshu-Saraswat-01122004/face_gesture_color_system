@@ -41,7 +41,7 @@
 ```bash
 # Clone or download this repository
 git clone https://github.com/Himanshu-Saraswat-01122004/face_gesture_color_system.git
-cd face-gesture-system
+cd face_gesture_color_system
 ```
 
 ### 2️⃣ Set up environment
