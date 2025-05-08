@@ -27,6 +27,7 @@ ENV/
 # Project specific
 gesture_system.log
 remove_comments.py
+clean_comments.py
 .DS_Store
 Thumbs.db
 
