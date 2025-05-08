@@ -40,7 +40,7 @@
 ### 1️⃣ Get the code
 ```bash
 # Clone or download this repository
-git clone https://your-repository-url.git
+git clone https://github.com/Himanshu-Saraswat-01122004/face_gesture_color_system.git
 cd face-gesture-system
 ```
 
